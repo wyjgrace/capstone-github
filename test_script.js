@@ -1,6 +1,6 @@
 
 // alert('hello world!')
-var body=document.getElementsByTagName('head')[0];
+var body=document.getElementsByTagName('nav')[0];
 console.log(body); 
 
 // put this line of code at bookmark's URL/location. 
