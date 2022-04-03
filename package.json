@@ -1,0 +1,23 @@
+{
+  "name": "capstone-github",
+  "version": "1.0.0",
+  "description": "**Run javascript on http server** 1. open cmd terminal 2. cd to directory containing the javascript file (C:\\Users\\wying\\Desktop\\capstone-github\\) 3. type 'python -m http.server' to start local http server 4. js file is hosted here: http://127.0.0.1:8000/test_script.js",
+  "main": "test_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyjgrace/capstone-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyjgrace/capstone-github/issues"
+  },
+  "homepage": "https://github.com/wyjgrace/capstone-github#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
