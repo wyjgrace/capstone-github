@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/wyjgrace/capstone-github#readme",
   "dependencies": {
-    "cors-anywhere": "^0.4.4"
-  }
+    "cheerio": "^1.0.0-rc.12",
+    "cors-anywhere": "^0.4.4",
+    "node-fetch": "^3.2.6",
+    "pretty": "^2.0.0"
+  },
+  "type": "module"
 }
